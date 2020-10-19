@@ -217,3 +217,306 @@ section {
   font-size: 30px;
   padding-top: 60px;
 }
+
+
+@media screen and (max-width: 768px){
+  .titre-header {
+    top: 30px;
+    margin-left: 40px;
+  
+  } 
+    
+  .dark-bold-size {
+    font-size: 45px;
+  }
+    
+  .lighter-orange {
+    font-size: 45px;
+  }
+    
+  .rectangle {
+    padding-right: 0px;
+   
+  }
+    
+  .bethesda {
+    font-size: 30px;
+  }
+    
+  .texte-header {
+    padding-left: 60px;
+    padding-top: 0px;
+  }
+    
+  .lighter-size-italic {
+    font-size: 28px;
+  }
+  
+  section {
+    height: 700px;  
+  }
+  
+  .border-line {
+    margin-left: 75px;
+    margin-top: 50px;
+  }
+  
+  
+  .first-p {
+    margin-left: 40px;
+    padding-left: 80px;
+    padding-right: 70px;
+    margin-right: 0px;
+    font-size: 15px;
+    padding-top: 30px;
+  }
+  
+  .second-p {
+    margin-left: 40px;
+    padding-left: 80px;
+    padding-right: 70px;
+    margin-right: 0px;
+    font-size: 15px;
+    padding-top: 0px;
+  }
+  
+  
+  .lighter {
+    line-height: 24px;
+    font-size: 15px;
+  }
+  
+  .liste {
+    text-align: justify;
+    font-size: 15px; 
+    line-height: 24px;
+    padding-top: 0px;
+  }
+  .orange-bold-italique{
+    font-size: 15px;
+  }
+  
+  .dark-bold-italique{
+    font-size: 15px;
+  }
+  
+  .dark-bold-italique-liste {
+    font-size: 15px;;
+  }
+  
+  .orange-bold-italique-liste {
+    font-size: 15px;
+  }
+  
+  .lighter-italique {
+    font-size: 15px;
+  }
+  
+  .roue-text-boy {
+    margin-bottom: 60px;
+  }
+  
+  .background-black-footer {
+  
+    height: 200px;
+  }
+  
+  .roue-text-boy {
+    bottom: 60px;
+  }
+  
+  .roue-mecanique-img {
+    margin-right: 40px;
+    bottom: 10px;
+  }
+  
+  .roue-mecanique {
+    width: 140px;
+  }
+  
+  .space {
+  
+    padding-top: 15px;
+    padding-left: 15px;
+  }
+  
+  .dark-bold-size-footer {
+    font-size: 20px;
+  }
+  
+  .lighter-orange-footer {
+  
+    font-size: 20px;
+  }
+  
+  .lighter-italique-footer {
+    font-size: 20px;
+  }
+  
+  
+  .dark-bold-italique-footer {
+    font-size: 12px;
+  }
+  
+  .guy-boy-img {
+    margin-left: 40px;
+  }
+  
+  .boy-img {
+    width: 140px;
+  }
+  
+  .good-job {
+    padding-top: 40px;
+  }
+  }
+  
+  
+  
+  @media screen and (min-width: 769px) and (max-width: 992px){
+  .titre-header {
+    top: 10px;
+    margin-left: 65px;
+    margin-top: 75px;
+  } 
+  
+  .dark-bold-size {
+    font-size: 70px;
+  }
+    
+  .lighter-orange {
+    font-size: 70px;
+  }
+    
+  .rectangle {
+    padding-right: 5px;
+  }
+    
+  .bethesda {
+    font-size: 37px;
+  }
+    
+  .texte-header {
+    padding-left: 70px;
+    padding-top: 0px;
+  }
+    
+  .lighter-size-italic {
+    font-size: 39px;
+  }
+  
+  section {
+    height: 600px;  
+  }
+  
+  .border-line {
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  
+  
+  .first-p {
+    margin-left: 20px;
+    padding-left: 135px;
+    padding-right: 100px;
+    margin-right: 0px;
+    font-size: 16px;
+    padding-top: 30px;
+  }
+  
+  .second-p {
+    margin-left: 20px;
+    padding-left: 135px;
+    padding-right: 100px;
+    margin-right: 0px;
+    font-size: 16px;
+    padding-top: 0px;
+  }
+  
+  
+  .lighter {
+    line-height: 24px;
+    font-size: 16px;
+  }
+  
+  .liste {
+    text-align: justify;
+    font-size: 16px; 
+    line-height: 24px;
+    padding-top: 0px;
+  }
+  .orange-bold-italique{
+    font-size: 16px;
+  }
+  
+  .dark-bold-italique{
+    font-size: 16px;
+  }
+  
+  .dark-bold-italique-liste {
+    font-size: 16px;;
+  }
+  
+  .orange-bold-italique-liste {
+    font-size: 16px;
+  }
+  
+  .lighter-italique {
+    font-size: 16px;
+  }
+  
+  .roue-text-boy {
+    margin-bottom: 60px;
+  }
+  
+  .background-black-footer {
+  
+    height: 200px;
+  }
+  
+  .roue-mecanique-img {
+    margin-right: 50px;
+  }
+  
+  .roue-mecanique {
+    width: 180px;
+  }
+  
+  .space {
+  
+    padding-top: 30px;
+    padding-left: 35px;
+  }
+  
+  .dark-bold-size-footer {
+    font-size: 20px;
+  }
+  
+  .lighter-orange-footer {
+  
+    font-size: 20px;
+  }
+  
+  .lighter-italique-footer {
+    font-size: 20px;
+  }
+  
+  
+  .dark-bold-italique-footer {
+    font-size: 14px;
+  }
+  
+  .guy-boy-img {
+    margin-left: 50px;
+  }
+  
+  .boy-img {
+    width: 180px;
+  }
+  
+  .good-job {
+    padding-top: 40px;
+  }
+  
+  }
+  
